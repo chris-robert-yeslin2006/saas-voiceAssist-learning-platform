@@ -68,7 +68,7 @@ const CompanionComponent = ({ companionId, subject, topic, name, userName, userI
             vapi.off('speech-start', onSpeechStart);
             vapi.off('speech-end', onSpeechEnd);
         }
-    }, []);
+    }, );
 
     const toggleMicrophone = () => {
         const isMuted = vapi.isMuted();
@@ -85,8 +85,9 @@ const CompanionComponent = ({ companionId, subject, topic, name, userName, userI
             serverMessages: [],
         }
 
-        // @ts-expect-error
-        vapi.start(configureAssistant(voice, style), assistantOverrides)
+        // @ts-expect-error: vapi.start expects a different shape, override works in runtime
+vapi.start(configureAssistant(voice, style), assistantOverrides);
+
     }
 
     const handleDisconnect = () => {
