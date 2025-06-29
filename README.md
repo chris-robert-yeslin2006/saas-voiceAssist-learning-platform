@@ -23,7 +23,7 @@
 - 📄 **Transcript Viewer** + live speech detection
 - 💾 **Session History** saved for each user
 - 🖼️ Responsive UI using **Tailwind + shadcn/ui**
-- 🚀 Fully deployed and scalable via **Kubernetes**
+- 🚀 Fully deployed and scalable via **vercel**
 
 ---
 
