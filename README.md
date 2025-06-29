@@ -1,5 +1,5 @@
 <h1 align="center">🎓 AI Teaching Companion – SaaS App</h1>
-<h3>https://chris-voice-assist-learning-platfor.vercel.app/</h3>
+<h3 align="center">https://chris-voice-assist-learning-platfor.vercel.app/</h3>
 <p align="center">
   A subscription-based AI-powered tutor that helps users learn any <strong>topic</strong> by <strong>voice interaction</strong>, powered by <strong>Vapi AI</strong>, <strong>Clerk Auth</strong>, and deployed with <strong>Kubernetes</strong>.
 </p>
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Auth-Clerk-orange?style=for-the-badge&logo=clerk" />
   <img src="https://img.shields.io/badge/Voice-Vapi.ai-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployment-Kubernetes-blue?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Deployment-vercel-blue?style=for-the-badge&logo=vercel" />
 </p>
 
 ---
