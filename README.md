@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Auth-Clerk-orange?style=for-the-badge&logo=clerk" />
   <img src="https://img.shields.io/badge/Voice-Vapi.ai-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployment-vercel-blue?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Testing-sentry-blue?style=for-the-badge&logo=sentry" />
 </p>
 
 ---
