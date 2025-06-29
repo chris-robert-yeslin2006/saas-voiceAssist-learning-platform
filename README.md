@@ -1,7 +1,7 @@
 <h1 align="center">🎓 AI Teaching Companion – SaaS App</h1>
 <h3 align="center">https://chris-voice-assist-learning-platfor.vercel.app/</h3>
 <p align="center">
-  A subscription-based AI-powered tutor that helps users learn any <strong>topic</strong> by <strong>voice interaction</strong>, powered by <strong>Vapi AI</strong>, <strong>Clerk Auth</strong>, and deployed with <strong>Kubernetes</strong>.
+  A subscription-based AI-powered tutor that helps users learn any <strong>topic</strong> by <strong>voice interaction</strong>, powered by <strong>Vapi AI</strong>, <strong>Clerk Auth</strong>, and deployed with <strong>Vercel</strong> and Full Error handling and management with <strong>Sentry</strong>.
 </p>
 
 <p align="center">
