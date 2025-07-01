@@ -74,6 +74,7 @@ export const getRecentSessions = async (limit = 10) => {
         .from('session_history')
         .select(`companions:companion_id (*)`)
         .order('created_at', { ascending: false })
+        
         .limit(limit)
 
     if(error) throw new Error(error.message);
